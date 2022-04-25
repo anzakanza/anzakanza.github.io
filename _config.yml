@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Valokuvaaja Antti Leino
+title: Antti Leino
 email: leinokuva@gmail.com
 description: >-
   Projektina itselleni luoma sivusto, joka toimii myös portfolionani.
