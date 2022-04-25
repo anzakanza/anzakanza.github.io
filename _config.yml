@@ -22,7 +22,7 @@ title: Valokuvaaja Antti Leino
 email: leinokuva@gmail.com
 description: >-
   Projektina itselleni luoma sivusto, joka toimii myös portfolionani.
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://anzakanza.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: leinantti
 github_username:  anzakanza
