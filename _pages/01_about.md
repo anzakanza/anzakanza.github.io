@@ -9,4 +9,4 @@ About content goes here.
 - A list item
 - Another list item
 
-![revontulikuva](/assets/banneri2.jpg "Revontulikuva")
+<img src="/assets/banneri2.jpg" alt="revontulikuva" width="200"/>
